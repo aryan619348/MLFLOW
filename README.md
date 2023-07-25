@@ -1,4 +1,4 @@
-## ML flow experiments and learning
+## MLFLOW experiments and learning
 
 Dagshub server details
 Remote ML flow
